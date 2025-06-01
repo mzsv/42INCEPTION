@@ -57,6 +57,7 @@ The following volumes are used and mounted under /home/<username>/data
 │   └── wp_password.txt
 └── srcs
     ├── docker-compose.yml
+    ├── env
     └── requirements
         ├── mariadb
         │   ├── conf
